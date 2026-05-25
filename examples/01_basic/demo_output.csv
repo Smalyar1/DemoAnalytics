@@ -1,0 +1,6 @@
+city,year,temperature,rain_mm,temp_f
+Berlin,2020,15.0,50,59.0
+Paris,2020,17.5,40,63.5
+Berlin,2021,16.0,55,60.8
+Paris,2021,18.0,35,64.4
+Madrid,2021,20.0,10,68.0
